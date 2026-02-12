@@ -6,8 +6,6 @@ FIX
 
 Hallo Hallo
 
-Änderung
-
 ## Fabian war auch hier :)
 
 
