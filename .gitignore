@@ -1,0 +1,10 @@
+
+.cache/
+**/__pycache__/
+
+lib/**/*.bin
+
+.env
+
+.ide-config/
+!.ide-config/team.conf
